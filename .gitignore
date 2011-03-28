@@ -1,0 +1,10 @@
+# Ignore licensed fonts
+*.woff
+*.eot
+*.ttf
+*.otf
+
+# Ignore project files
+*.tmproj
+
+.DS_Store
